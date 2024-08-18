@@ -1,8 +1,8 @@
 # Sea Survival 🐚
 
-**Version:** v1.0  
+**Version:** v1.2  
 **Created by:** Dhruv Garg  
-**Year:** 2024
+**Year:** 2023
 
 ## Overview
 
@@ -31,11 +31,3 @@ This game is a showcase of my programming skills, demonstrating my ability to cr
 2. Enter Your Name
 3. Use the arrow keys to move the seahorse and press space to shoot.
 4. Survive for 4 minutes to win the game!
-
-## Contributing
-
-This project is not intended for further development, but if you'd like to fork it and make improvements, feel free to do so. Just remember to credit the original creator.
-
-## License
-
-This project is licensed under the [CC BY-NC-SA 4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1).
