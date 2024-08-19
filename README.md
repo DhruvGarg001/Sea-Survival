@@ -27,7 +27,7 @@ This game is a showcase of my programming skills, demonstrating my ability to cr
 
 ## How to Play
 
-1. Open The Deployed [Website](https://dhruvgarg001.github.io/Sea-Survival-v1.2/)
+1. Open The Deployed [Website](https://seasurvival.netlify.app/)
 2. Enter Your Name
 3. Use the arrow keys to move the seahorse and press space to shoot.
 4. Survive for 4 minutes to win the game!
