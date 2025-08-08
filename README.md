@@ -1,6 +1,5 @@
 # Sea Survival 🐚
 
-**Version:** v1.2  
 **Created by:** Dhruv Garg  
 **Year:** 2023
 
